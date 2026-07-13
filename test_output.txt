@@ -1,0 +1,113 @@
+
+--- Testing Mode: practical ---
+
+--- Testing Mode: practical ---
+STATUS: 200
+RESPONSE SNIPPET: **Current Weather Conditions:** Sunny with a temperature of 25°C in Test City.
+
+**Weather Request Ad...
+WARNING: Response missing <b> tags for structured mode!
+
+--- Testing Mode: travel ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Road Conditions</b>
+Given the sunny weather in Test City with a temperature of 25 degrees, road c...
+
+--- Testing Mode: wellness ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Skin Health</b>
+Given the sunny condition in Test City, it's essential to take extra precautions ...
+
+--- Testing Mode: creative ---
+STATUS: 200
+RESPONSE SNIPPET: 🌞 Ah, what a beautiful day it is in Test City! 🌴 The sun is shining brightly, casting a warm glow ...
+
+--- Testing Mode: practical ---
+STATUS: 200
+RESPONSE SNIPPET: **Weather Request Advice**
+
+Given the current weather conditions in Test City, with a temperature of...
+WARNING: Response missing <b> tags for structured mode!
+
+--- Testing Mode: travel ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Road Conditions</b>
+Given the sunny weather in Test City with a temperature of 25 degrees, road c...
+
+--- Testing Mode: wellness ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Skin Health</b>
+Given the current weather conditions in Test City, with a temperature of 25 degre...
+
+--- Testing Mode: creative ---
+STATUS: 200
+RESPONSE SNIPPET: 🌞 Ah, what a glorious day it is in Test City! 🌴 The sun is shining brightly, casting a warm glow o...
+
+--- Testing Mode: practical ---
+STATUS: 200
+RESPONSE SNIPPET: <b>⚡ Advice</b>
+Given the current weather conditions in Test City, with a temperature of 25 degrees ...
+
+--- Testing Mode: travel ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Road Conditions</b>
+Given the sunny weather in Test City with a temperature of 25 degrees, road c...
+
+--- Testing Mode: wellness ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Skin Health</b>
+Given the current weather conditions in Test City, with a temperature of 25 degre...
+
+--- Testing Mode: creative ---
+STATUS: 200
+RESPONSE SNIPPET: 🌞 Ah, what a gorgeous day it is in Test City! 🌴 The sun is shining brightly, casting a warm glow o...
+
+--- Testing Mode: practical ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Current Conditions</b>: It's 25°C and Sunny.<br><br><b>Wear</b>: Standard day wear, t-shirt and j...
+
+--- Testing Mode: travel ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Road Conditions</b>
+Given the sunny weather in Test City with a temperature of 25 degrees, the ro...
+
+--- Testing Mode: wellness ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Skin Health</b>: Apply moisturizer.<br><br><b>Respiratory</b>: Air quality is likely normal.<br><...
+
+--- Testing Mode: creative ---
+STATUS: 200
+RESPONSE SNIPPET: The world outside whispers a story of golden embrace of the sun. At 25°C, the air feels alive. Natur...
+
+--- Testing Mode: practical ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Current Conditions</b>: It's 25°C and Sunny.<br><br><b>Wear</b>: Standard day wear, t-shirt and j...
+
+--- Testing Mode: travel ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Road Conditions</b>
+Given the sunny weather in Test City with a temperature of 25 degrees, road c...
+
+--- Testing Mode: wellness ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Skin Health</b>: Apply moisturizer.<br><br><b>Respiratory</b>: Air quality is likely normal.<br><...
+
+--- Testing Mode: creative ---
+STATUS: 200
+RESPONSE SNIPPET: The world outside whispers a story of golden embrace of the sun. At 25°C, the air feels alive. Natur...
+
+--- Testing Mode: practical ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Current Conditions</b>: It's a gentle 25°C with Sunny skies.<br><br><b>Wear</b>: Casual, everyday...
+
+--- Testing Mode: travel ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Road Conditions</b>: Roads should be pleasant and clear.<br><br><b>Flight Delays</b>: No major we...
+
+--- Testing Mode: wellness ---
+STATUS: 200
+RESPONSE SNIPPET: <b>Skin Health</b>: A light, soothing moisturizer would be wonderful.<br><br><b>Respiratory</b>: The...
+
+--- Testing Mode: creative ---
+STATUS: 200
+RESPONSE SNIPPET: The world outside whispers a gentle story of the warm, golden embrace of the sun. At 25°C, the air f...

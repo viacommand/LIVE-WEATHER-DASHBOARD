@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: live-weather-dashboard
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false # You will be prompted to enter this in the Render UI
+      - key: OWM_API_KEY
+        sync: false # You will be prompted to enter this in the Render UI

@@ -1,0 +1,16 @@
+[2026-07-12T10:55:56.486Z] --- OpenAI Connection Diagnostic (File Mode) ---
+[2026-07-12T10:55:56.498Z] [1/4] Found .env file at: /home/jarvis/local disk d/weather dashboard/weather 4 backup/.env
+[2026-07-12T10:55:56.499Z] [2/4] FAIL: OPENAI_API_KEY not found in .env
+[2026-07-12T10:55:56.500Z] [3/4] Testing basic internet (google.com)...
+[2026-07-12T10:55:56.749Z] [3/4] Google Reachable. Status: 200
+[2026-07-12T10:55:56.750Z] [4/4] Testing connection to OpenAI API...
+[2026-07-12T10:55:57.157Z] Response Status: 401
+[2026-07-12T10:55:57.157Z] FAIL: OpenAI returned error status.
+[2026-07-12T10:55:57.159Z] Error Body: {
+  "error": {
+    "message": "Incorrect API key provided: null. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "Live Weather Dashboard - AI-powered weather client and proxy server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test-simple.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
